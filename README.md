@@ -22,3 +22,19 @@ A simple and secure Python-based password generator that creates strong, random 
    ```bash
    git clone https://github.com/yourusername/password-generator.git
    cd password-generator
+2. (Optional) Create a virtual environment and activate it:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+3. Install dependencies (if required):
+   ```bash
+   pip install -r requirements.txt
+
+### Usage
+1. Run the script:
+   ```bash
+   python password_generator.py
+2. Follow the on-screen instructions to generate your secure password.
+
+
+
